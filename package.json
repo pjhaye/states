@@ -1,0 +1,15 @@
+{
+  "name": "com.pjvideogames.states",
+  "version": "0.0.1",
+  "displayName": "States",
+  "description": "Basic code-based State Machine implementation",
+  "unity": "2021.1",
+  "keywords": [
+    "states", "behavior", "state machine"    
+  ],
+  "author": {
+    "name": "PJ Haye",
+    "email": "pj.haye@gmail.com"
+  },
+  "type": "module"
+}
