@@ -1,5 +1,5 @@
 {
-    "name": "com.pjvideogames.states",
+    "name": "PjVideoGames.States",
     "rootNamespace": "States",
     "references": [],
     "includePlatforms": [],
